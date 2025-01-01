@@ -2,6 +2,8 @@
 The training dataset is under license of Roboflow and it can be obtained at the following link:
 https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1
 
+YOLO was used to train a model from the training dataset of roboflow.
+
 I have provided only a single sample for the training dataset in this repo. However, if you could please
 contact me at my email [simar@mail.utoronto.ca](url), I can provide you access to my private repo that contains
 the trained model weights and final video for test dataset.
