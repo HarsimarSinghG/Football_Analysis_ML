@@ -12,6 +12,7 @@ Interpolation was used for the position of the ball to achieve tracking in all t
 To calculate speed and distance in meters rather than pixels, the perspective transform module of cv2 was used.
 
 Issues to fix: Deployment on AWS SageMaker on a private endpoint to make inference is not working as required.
+
 More features to be added: Detecting time frames for events of the ball going offside, requires keypoint extraction of the court.
 
 # Example of dataset
