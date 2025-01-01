@@ -13,7 +13,7 @@ To calculate speed and distance in meters rather than pixels, the perspective tr
 
 Issues to fix: Deployment on AWS SageMaker on a private endpoint to make inference is not working as required.
 
-More features to be added: Detecting time frames for events of the ball going offside, requires keypoint extraction of the court.
+More features to be added: Detecting time frames for events of the ball going offside, requires keypoint extraction of the football field.
 
 # Example of dataset
 ![2e57b9_1_8_png rf abd7f2df70d4bf0ab5e307b0f1c3d75b](https://github.com/user-attachments/assets/1ed0658d-a473-4e3f-8043-d94e8eecf43a)
