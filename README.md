@@ -11,6 +11,9 @@ that includes tracking players, football even out of frames. Also, it includes t
 Interpolation was used for the position of the ball to achieve tracking in all the frames.
 To calculate speed and distance in meters rather than pixels, the perspective transform module of cv2 was used.
 
+Issues to fix: Deployment on AWS SageMaker on a private endpoint to make inference is not working as required.
+More features to be added: Detecting time frames for events of the ball going offside, requires keypoint extraction of the court.
+
 # Example of dataset
 ![2e57b9_1_8_png rf abd7f2df70d4bf0ab5e307b0f1c3d75b](https://github.com/user-attachments/assets/1ed0658d-a473-4e3f-8043-d94e8eecf43a)
 2 0.21844791666666669 0.37982407407407404 0.02145312499999997 0.053870370370370325
